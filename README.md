@@ -1,11 +1,10 @@
-# Supporting Material for WRI Publication ""
-[Link to publication]()
+# Supporting Material for WRI Publication "Addressing Energy Equity in the United States: Policy Considerations for Federal Investment".
 
-**This publication is under review. This repository and the data should not be shared externally at this time.**
+[Link to publication](https://doi.org/10.46830/wriib.20.00156)
 
 # Purpose
 
-Figure X of the WRI Issue Brief "" is a map that displays both household energy burden and a form of racial demographics at a county level for the US, including the District of Columbia but not including US territories.
+Figure 1 of the WRI Issue Brief ["Addressing Energy Equity in the United States: Policy Considerations for Federal Investment"](https://doi.org/10.46830/wriib.20.00156) is a map that displays both household energy burden and a form of racial demographics at a county level for the US, including the District of Columbia but not including US territories.
 This repository holds the processing workflow to recreate that map (up to producing a shapefile with the categories for the [bivariate choropleth](https://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/)).
 
 
